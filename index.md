@@ -4,4 +4,4 @@ This site contains information and updates about our software development projec
 
 ### Release Notes
 
-- [Badger Commerce](/release-notes/)
+- [Badger Commerce](/release-notes/index.md)
